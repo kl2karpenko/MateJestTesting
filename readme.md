@@ -1,4 +1,4 @@
-### Testing 
+### Testing your code with JEST
 
 **toBe** compares strict equality, using === <br />
 **toEqual** compares the values of two variables. If it’s an object or array, checks equality of all the properties or elements<br />
