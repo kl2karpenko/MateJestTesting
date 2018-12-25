@@ -10,6 +10,13 @@
     "regenerator-runtime": "^0.13.1"
   },
   "scripts": {
-    "test": "NODE_ENV=test jest --verbose --watch"
+    "test": "NODE_ENV=test jest"
+  },
+  "jest": {
+    "verbose": true,
+    "collectCoverage": true,
+    "moduleFileExtensions": [
+      "js"
+    ]
   }
 }
