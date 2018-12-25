@@ -5,6 +5,7 @@
 3. Add a coverage to the project, to define if all files covered with tests
 
 ### Try BDD – поведенческие тесты кода 
+https://learn.javascript.ru/testing
 1. Create a function that will count an empty strings in array, and returns it's number.
 2. Try first write test for the function
 3. Write a function 
