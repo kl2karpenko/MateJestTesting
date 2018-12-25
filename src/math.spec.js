@@ -4,11 +4,6 @@ describe("Math module", () => {
 
   test("sum: Adding 1 + 1 equals 2", () => {
     expect(sum(1, 1)).toBe(2);
-    expect(() => {
-      return sum(null, 1);
-    }).toThrow(
-      new Error('Please pass numbers')
-    );
   });
 
   test("sum: when pass null throws error", () => {
