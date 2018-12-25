@@ -4,16 +4,17 @@
 2. Create a function that returns factorial. Test it on 2 different cases + test on null and undefined (should return error)
 3. Add a coverage to the project, to define if all files covered with tests
 
+
+### Mock functions
+
+Test the previous functions with mock testing -> https://jestjs.io/docs/en/mock-functions
+
 ### Try BDD – поведенческие тесты кода 
 https://learn.javascript.ru/testing
 1. Create a function that will count an empty strings in array, and returns it's number.
 2. Try first write test for the function
 3. Write a function 
 4. Make sure that everything works as expected
-
-### Mock functions
-
-Test the previous functions with mock testing -> https://jestjs.io/docs/en/mock-functions
 
 ### Testing DOM with Jest Snapshots
 
