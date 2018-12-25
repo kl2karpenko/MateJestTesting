@@ -4,7 +4,7 @@
 2. Create a function that returns factorial. Test it on 2 different cases + test on null and undefined (should return error)
 3. Add a coverage to the project, to define if all files covered with tests
 
-### Try TDD 
+### Try BDD – поведенческие тесты кода 
 1. Create a function that will count an empty strings in array, and returns it's number.
 2. Try first write test for the function
 3. Write a function 
